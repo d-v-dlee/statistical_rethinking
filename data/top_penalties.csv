@@ -1,0 +1,386 @@
+League,Club,Position,Name,Successes,Failures,Total Attempts
+Premier League,Manchester City,Central Midfield,Fernandinho,11,6,17
+Premier League,Manchester City,Central Midfield,Yaya Touré,15,0,15
+Premier League,Manchester City,Centre-Forward,Sergio Agüero,29,8,37
+Premier League,Manchester United,Central Midfield,Bastian Schweinsteiger,9,2,11
+Premier League,Manchester United,Attacking Midfield,Juan Mata,10,4,14
+Premier League,Manchester United,Secondary Striker,Wayne Rooney,33,9,42
+Premier League,Manchester United,Centre-Forward,Zlatan Ibrahimovic,67,9,76
+Premier League,Arsenal FC,Central Midfield,Santi Cazorla,9,2,11
+Premier League,Arsenal FC,Attacking Midfield,Mesut Özil,8,4,12
+Premier League,Arsenal FC,Centre-Forward,Olivier Giroud,13,1,14
+Premier League,Arsenal FC,Centre-Forward,Lucas Pérez,10,1,11
+Premier League,Chelsea FC,Central Midfield,Cesc Fàbregas,14,6,20
+Premier League,Chelsea FC,Left Wing,Eden Hazard,35,5,40
+Premier League,Chelsea FC,Centre-Forward,Diego Costa,14,5,19
+Premier League,Tottenham Hotspur,Centre-Forward,Harry Kane,15,5,20
+Premier League,Tottenham Hotspur,Centre-Forward,Vincent Janssen,16,0,16
+Premier League,Liverpool FC,Central Midfield,James Milner,20,3,23
+Premier League,Liverpool FC,Attacking Midfield,Georginio Wijnaldum,7,4,11
+Premier League,Everton FC,Left-Back,Leighton Baines,24,3,27
+Premier League,Everton FC,Defensive Midfield,Gareth Barry,20,4,24
+Premier League,Everton FC,Centre-Forward,Romelu Lukaku,9,4,13
+Premier League,Southampton FC,Left Wing,Dusan Tadic,26,5,31
+Premier League,Southampton FC,Centre-Forward,Charlie Austin,20,2,22
+Premier League,Southampton FC,Centre-Forward,Shane Long,12,4,16
+Premier League,Leicester City,Right Wing,Riyad Mahrez,9,3,12
+Premier League,West Ham United,Central Midfield,Mark Noble,29,4,33
+Premier League,West Ham United,Left Wing,André Ayew,11,1,12
+Premier League,Crystal Palace,Central Midfield,Yohan Cabaye,16,2,18
+Premier League,Crystal Palace,Centre-Forward,Christian Benteke,11,6,17
+Premier League,Stoke City,Central Midfield,Charlie Adam,17,3,20
+Premier League,Stoke City,Right Wing,Jonathan Walters,17,7,24
+Premier League,Stoke City,Centre-Forward,Wilfried Bony,13,4,17
+Premier League,Stoke City,Centre-Forward,Saido Berahino,11,4,15
+Premier League,Watford FC,Central Midfield,Ben Watson,14,4,18
+Premier League,Watford FC,Centre-Forward,Troy Deeney,20,3,23
+Premier League,Swansea City,Attacking Midfield,Gylfi Sigurdsson,22,2,24
+Premier League,Swansea City,Centre-Forward,Borja Bastón,10,1,11
+Premier League,Swansea City,Centre-Forward,Fernando Llorente,11,7,18
+Premier League,Hull City,Attacking Midfield,Evandro,13,1,14
+Premier League,Hull City,Attacking Midfield,Shaun Maloney,11,2,13
+Premier League,Hull City,Centre-Forward,Abel Hernández,11,4,15
+Premier League,Hull City,Centre-Forward,Dieumerci Mbokani,6,5,11
+Premier League,AFC Bournemouth,Left Wing,Max Gradel,13,3,16
+Premier League,Sunderland AFC,Centre-Forward,Jermain Defoe,19,9,28
+Premier League,Middlesbrough FC,Central Midfield,Grant Leadbitter,22,6,28
+Premier League,Middlesbrough FC,Centre-Forward,Álvaro Negredo,28,5,33
+Premier League,Burnley FC,Left Midfield,Robbie Brady,11,0,11
+Premier League,Burnley FC,Centre-Forward,Ashley Barnes,12,5,17
+LaLiga,Real Madrid,Central Midfield,Luka Modric,11,1,12
+LaLiga,Real Madrid,Attacking Midfield,James Rodríguez,11,2,13
+LaLiga,Real Madrid,Left Wing,Cristiano Ronaldo,92,18,110
+LaLiga,FC Barcelona,Central Midfield,Ivan Rakitic,16,6,22
+LaLiga,FC Barcelona,Left Wing,Neymar,31,8,39
+LaLiga,FC Barcelona,Right Wing,Lionel Messi,69,19,88
+LaLiga,FC Barcelona,Centre-Forward,Luis Suárez,29,9,38
+LaLiga,Atlético Madrid,Attacking Midfield,Alessio Cerci,9,2,11
+LaLiga,Atlético Madrid,Centre-Forward,Kévin Gameiro,16,4,20
+LaLiga,Atlético Madrid,Centre-Forward,Fernando Torres,22,7,29
+LaLiga,Sevilla FC,Left Wing,Michael Krohn-Dehli,10,1,11
+LaLiga,Sevilla FC,Centre-Forward,Wissam Ben Yedder,9,2,11
+LaLiga,Sevilla FC,Centre-Forward,Stevan Jovetic,16,3,19
+LaLiga,Valencia CF,Centre-Back,Ezequiel Garay,10,5,15
+LaLiga,Valencia CF,Left-Back,Guilherme Siqueira,11,2,13
+LaLiga,Valencia CF,Central Midfield,Dani Parejo,11,3,14
+LaLiga,Villarreal CF,Defensive Midfield,Bruno Soriano,11,1,12
+LaLiga,Villarreal CF,Centre-Forward,Roberto Soldado,21,5,26
+LaLiga,Athletic Bilbao,Centre-Forward,Aritz Aduriz,23,7,30
+LaLiga,Real Sociedad,Attacking Midfield,Xabi Prieto,18,1,19
+LaLiga,Real Sociedad,Right Wing,Carlos Vela,10,2,12
+LaLiga,Celta de Vigo,Left Wing,Claudio Beauvue,11,0,11
+LaLiga,Celta de Vigo,Centre-Forward,John Guidetti,21,1,22
+LaLiga,Celta de Vigo,Centre-Forward,Giuseppe Rossi,35,5,40
+LaLiga,Málaga CF,Centre-Forward,Michael Santos,12,6,18
+LaLiga,UD Las Palmas,Left Wing,Jonathan Viera,10,2,12
+LaLiga,UD Las Palmas,Left Wing,Momo,11,2,13
+LaLiga,Real Betis Balompié,Centre-Forward,Rubén Castro,12,2,14
+LaLiga,RCD Espanyol Barcelona,Right Wing,José Antonio Reyes,11,2,13
+LaLiga,Deportivo Alavés,Centre-Forward,Christian Santos,11,2,13
+LaLiga,Sporting Gijón,Centre-Forward,Duje Cop,10,1,11
+LaLiga,Sporting Gijón,Centre-Forward,Borja Viguera,13,3,16
+LaLiga,CA Osasuna,Attacking Midfield,Roberto Torres,15,2,17
+Serie A,Juventus FC,Centre-Forward,Gonzalo Higuaín,17,5,22
+Serie A,Juventus FC,Centre-Forward,Paulo Dybala,11,1,12
+Serie A,SSC Napoli,Central Midfield,Marek Hamsik,18,10,28
+Serie A,SSC Napoli,Left Wing,Dries Mertens,16,3,19
+Serie A,Inter Milan,Right Wing,Antonio Candreva,21,5,26
+Serie A,Inter Milan,Centre-Forward,Mauro Icardi,11,4,15
+Serie A,Inter Milan,Centre-Forward,Éder,23,2,25
+Serie A,AS Roma,Left Wing,Diego Perotti,13,0,13
+Serie A,AS Roma,Centre-Forward,Edin Dzeko,9,7,16
+Serie A,AS Roma,Centre-Forward,Francesco Totti,86,18,104
+Serie A,AC Milan,Attacking Midfield,Matías Fernández,8,3,11
+Serie A,AC Milan,Attacking Midfield,Keisuke Honda,10,2,12
+Serie A,AC Milan,Centre-Forward,Carlos Bacca,25,6,31
+Serie A,ACF Fiorentina,Attacking Midfield,Josip Ilicic,13,3,16
+Serie A,ACF Fiorentina,Centre-Forward,Nikola Kalinic,20,2,22
+Serie A,SS Lazio,Defensive Midfield,Lucas Biglia,13,3,16
+Serie A,SS Lazio,Centre-Forward,Ciro Immobile,14,5,19
+Serie A,Torino FC,Left Wing,Adem Ljajic,6,5,11
+Serie A,Torino FC,Centre-Forward,Andrea Belotti,10,3,13
+Serie A,Torino FC,Centre-Forward,Maxi López,9,3,12
+Serie A,US Sassuolo,Right Wing,Domenico Berardi,20,3,23
+Serie A,Atalanta BC,Centre-Forward,Alberto Paloschi,11,3,14
+Serie A,Genoa CFC,Left Wing,Raffaele Palladino,7,4,11
+Serie A,Genoa CFC,Centre-Forward,Mauricio Pinilla,24,5,29
+Serie A,Udinese Calcio,Defensive Midfield,Sven Kums,13,5,18
+Serie A,Udinese Calcio,Defensive Midfield,Francesco Lodi,29,2,31
+Serie A,Udinese Calcio,Centre-Forward,Cyril Théréau,10,2,12
+Serie A,UC Sampdoria,Centre-Forward,Fabio Quagliarella,10,3,13
+Serie A,Bologna FC 1909,Centre-Forward,Mattia Destro,11,2,13
+Serie A,Cagliari Calcio,Defensive Midfield,Davide Di Gennaro,10,1,11
+Serie A,Cagliari Calcio,Centre-Forward,Marco Borriello,13,3,16
+Serie A,FC Empoli,Left-Back,Federico Dimarco,9,2,11
+Serie A,FC Empoli,Attacking Midfield,Omar El Kaddouri,9,2,11
+Serie A,FC Empoli,Centre-Forward,Massimo Maccarone,24,10,34
+Serie A,Delfino Pescara 1936,Central Midfield,Ledian Memushaj,16,5,21
+Serie A,Delfino Pescara 1936,Centre-Forward,Alberto Cerri,11,1,12
+Serie A,Delfino Pescara 1936,Centre-Forward,Alberto Gilardino,15,7,22
+Serie A,Chievo Verona,Centre-Forward,Sergio Pellissier,15,3,18
+Serie A,US Palermo,Secondary Striker,Alessandro Diamanti,14,3,17
+Serie A,US Palermo,Centre-Forward,Ilija Nestorovski,16,4,20
+1.Bundesliga,Bayern Munich,Left-Back,David Alaba,8,4,12
+1.Bundesliga,Bayern Munich,Defensive Midfield,Xabi Alonso,10,3,13
+1.Bundesliga,Bayern Munich,Central Midfield,Arturo Vidal,28,4,32
+1.Bundesliga,Bayern Munich,Left Midfield,Franck Ribéry,10,4,14
+1.Bundesliga,Bayern Munich,Right Wing,Arjen Robben,16,2,18
+1.Bundesliga,Bayern Munich,Secondary Striker,Thomas Müller,26,7,33
+1.Bundesliga,Bayern Munich,Centre-Forward,Robert Lewandowski,22,3,25
+1.Bundesliga,Borussia Dortmund,Right-Back,Felix Passlack,11,0,11
+1.Bundesliga,Borussia Dortmund,Defensive Midfield,Dzenis Burnic,11,2,13
+1.Bundesliga,Borussia Dortmund,Centre-Forward,Pierre-Emerick Aubameyang,14,3,17
+1.Bundesliga,Bayer 04 Leverkusen,Attacking Midfield,Hakan Calhanoglu,17,3,20
+1.Bundesliga,Bayer 04 Leverkusen,Centre-Forward,Chicharito,12,9,21
+1.Bundesliga,Bayer 04 Leverkusen,Centre-Forward,Stefan Kießling,10,1,11
+1.Bundesliga,FC Schalke 04,Left-Back,Dennis Aogo,11,2,13
+1.Bundesliga,FC Schalke 04,Right Midfield,Daniel Caligiuri,18,0,18
+1.Bundesliga,FC Schalke 04,Left Midfield,Yevhen Konoplyanka,8,4,12
+1.Bundesliga,FC Schalke 04,Left Wing,Eric Maxim Choupo-Moting,11,2,13
+1.Bundesliga,FC Schalke 04,Centre-Forward,Klaas-Jan Huntelaar,32,10,42
+1.Bundesliga,Borussia Mönchengladbach,Attacking Midfield,Thorgan Hazard,12,1,13
+1.Bundesliga,VfL Wolfsburg,Left-Back,Ricardo Rodríguez,15,2,17
+1.Bundesliga,VfL Wolfsburg,Right Midfield,Jakub Blaszczykowski,9,2,11
+1.Bundesliga,VfL Wolfsburg,Centre-Forward,Mario Gómez,15,7,22
+1.Bundesliga,TSG 1899 Hoffenheim,Centre-Forward,Andrej Kramaric,18,3,21
+1.Bundesliga,TSG 1899 Hoffenheim,Centre-Forward,Sandro Wagner,6,6,12
+1.Bundesliga,1. FC Köln,Defensive Midfield,Matthias Lehmann,16,2,18
+1.Bundesliga,1. FC Köln,Centre-Forward,Anthony Modeste,18,4,22
+1.Bundesliga,Hertha BSC,Left Wing,Sinan Kurt,12,0,12
+1.Bundesliga,Hertha BSC,Centre-Forward,Salomon Kalou,13,1,14
+1.Bundesliga,Hertha BSC,Centre-Forward,Vedad Ibisevic,16,3,19
+1.Bundesliga,Hamburger SV,Attacking Midfield,Aaron Hunt,12,3,15
+1.Bundesliga,Hamburger SV,Centre-Forward,Pierre-Michel Lasogga,8,3,11
+1.Bundesliga,SV Werder Bremen,Secondary Striker,Max Kruse,13,2,15
+1.Bundesliga,SV Werder Bremen,Centre-Forward,Aron Jóhannsson,15,2,17
+1.Bundesliga,SV Werder Bremen,Centre-Forward,Claudio Pizarro,15,5,20
+1.Bundesliga,Eintracht Frankfurt,Secondary Striker,Alexander Meier,10,4,14
+1.Bundesliga,FC Augsburg,Right-Back,Paul Verhaegh,14,1,15
+1.Bundesliga,FC Augsburg,Centre-Forward,Alfred Finnbogason,18,2,20
+1.Bundesliga,SC Freiburg,Secondary Striker,Maximilian Philipp,11,0,11
+1.Bundesliga,SC Freiburg,Centre-Forward,Nils Petersen,17,1,18
+1.Bundesliga,SV Darmstadt 98,Centre-Forward,Dominik Stroh-Engel,21,1,22
+Ligue 1,Paris Saint-Germain,Attacking Midfield,Hatem Ben Arfa,13,0,13
+Ligue 1,Paris Saint-Germain,Centre-Forward,Edinson Cavani,41,9,50
+Ligue 1,Olympique Lyon,Centre-Forward,Alexandre Lacazette,21,4,25
+Ligue 1,AS Monaco,Defensive Midfield,Fabinho,12,0,12
+Ligue 1,AS Monaco,Central Midfield,João Moutinho,12,3,15
+Ligue 1,AS Monaco,Centre-Forward,Falcao,34,10,44
+Ligue 1,OGC Nice,Centre-Forward,Mario Balotelli,27,4,31
+Ligue 1,Olympique Marseille,Centre-Forward,Bafetimbi Gomis,11,1,12
+Ligue 1,FC Girondins Bordeaux,Centre-Forward,Jérémy Ménez,10,2,12
+Ligue 1,FC Lorient,Centre-Forward,Benjamin Moukandjo,15,0,15
+Ligue 1,FC Nantes,Defensive Midfield,Guillaume Gillet,8,6,14
+Ligue 1,HSC Montpellier,Attacking Midfield,Ryad Boudebouz,21,1,22
+Ligue 1,FC Metz,Central Midfield,Renaud Cohade,13,0,13
+Ligue 1,FC Metz,Centre-Forward,Cheick Diabaté,16,1,17
+Ligue 1,SM Caen,Central Midfield,Steed Malbranque,10,3,13
+Ligue 1,SM Caen,Centre-Forward,Ivan Santini,17,6,23
+Ligue 1,SC Bastia,Left Wing,Gaël Danic,10,1,11
+Süper Lig,Fenerbahce SK,Left Wing,Aatif Chahechouhe,11,2,13
+Süper Lig,Fenerbahce SK,Centre-Forward,Robin van Persie,37,7,44
+Süper Lig,Fenerbahce SK,Centre-Forward,Fernandão,19,3,22
+Süper Lig,Besiktas JK,Right Wing,Ricardo Quaresma,14,3,17
+Süper Lig,Besiktas JK,Centre-Forward,Demba Ba,15,4,19
+Süper Lig,Besiktas JK,Centre-Forward,Cenk Tosun,20,1,21
+Süper Lig,Galatasaray SK,Central Midfield,Selcuk Inan,26,2,28
+Süper Lig,Galatasaray SK,Attacking Midfield,Josué,13,3,16
+Süper Lig,Galatasaray SK,Centre-Forward,Lukas Podolski,20,2,22
+Süper Lig,Medipol Basaksehir,Central Midfield,Emre Belözoglu,21,1,22
+Süper Lig,Medipol Basaksehir,Centre-Forward,Emmanuel Adebayor,15,4,19
+Süper Lig,Trabzonspor,Centre-Forward,Hugo Rodallega,5,7,12
+Süper Lig,Osmanlispor FK,Centre-Forward,Raul Rusescu,14,2,16
+Süper Lig,Bursaspor,Centre-Forward,Bogdan Stancu,20,0,20
+Süper Lig,Antalyaspor,Centre-Forward,Samuel Eto'o,43,11,54
+Süper Lig,Atiker Konyaspor,Left Midfield,Alban Meha,9,2,11
+Süper Lig,Atiker Konyaspor,Secondary Striker,Dimitar Rangelov,13,3,16
+Süper Lig,Aytemiz Alanyaspor,Centre-Forward,Vágner Love,26,9,35
+Süper Lig,Gaziantepspor,Defensive Midfield,Sergey Kislyak,16,2,18
+Süper Lig,Gaziantepspor,Centre-Forward,Ilhan Parlak,10,1,11
+Süper Lig,Akhisar Belediye Genclik ve Spor,Centre-Forward,Sokol Cikalleshi,9,2,11
+Süper Lig,Kardemir Karabükspor,Secondary Striker,Abdou Traoré,12,3,15
+Süper Lig,Kardemir Karabükspor,Centre-Forward,Evgen Seleznev,26,4,30
+Süper Lig,Genclerbirligi Ankara,Centre-Forward,Etien Velikonja,11,0,11
+Premier Liga,Zenit St. Petersburg,Centre-Forward,Artem Dzyuba,15,4,19
+Premier Liga,Zenit St. Petersburg,Centre-Forward,Aleksandr Kerzhakov,18,5,23
+Premier Liga,Spartak Moscow,Left-Back,Dmitri Kombarov,18,2,20
+Premier Liga,Spartak Moscow,Right Midfield,Aleksandr Samedov,10,4,14
+Premier Liga,Spartak Moscow,Centre-Forward,Luiz Adriano,16,4,20
+Premier Liga,CSKA Moscow,Centre-Back,Sergey Ignashevich,13,5,18
+Premier Liga,CSKA Moscow,Central Midfield,Bibras Natcho,29,5,34
+Premier Liga,FK Krasnodar,Centre-Back,Andreas Granqvist,11,3,14
+Premier Liga,FK Krasnodar,Central Midfield,Pavel Mamaev,11,1,12
+Premier Liga,FK Krasnodar,Left Wing,Joãozinho,15,0,15
+Premier Liga,FK Krasnodar,Centre-Forward,Fedor Smolov,10,1,11
+Premier Liga,Rubin Kazan,Attacking Midfield,Mijo Caktas,12,2,14
+Premier Liga,Rubin Kazan,Centre-Forward,Jonathas,7,4,11
+Premier Liga,Lokomotiv Moscow,Right Wing,Jefferson Farfán,14,2,16
+Premier Liga,Lokomotiv Moscow,Centre-Forward,Igor Portnyagin,11,4,15
+Premier Liga,FK Rostov,Centre-Forward,Marko Devic,22,6,28
+Premier Liga,Anzhi Makhachkala,Centre-Forward,Shamil Asildarov,9,7,16
+Premier Liga,Ural Yekaterinburg,Centre-Forward,Roman Pavlyuchenko,19,6,25
+Premier Liga,Krylya Sovetov Samara,Centre-Forward,Sergey Kornilenko,14,5,19
+Premier Liga,Arsenal Tula,Centre-Forward,Ruslan Mukhametshin,14,2,16
+Premier Liga,FK Orenburg,Right Midfield,Igor Koronov,17,2,19
+Premier Liga,Shakhtar Donetsk,Right-Back,Darijo Srna,16,5,21
+Premier Liga,Dynamo Kyiv,Right Wing,Andriy Yarmolenko,13,4,17
+Premier Liga,Dynamo Kyiv,Centre-Forward,Junior Moraes,21,8,29
+Premier Liga,FK Oleksandria,Defensive Midfield,Andriy Zaporozhan,10,3,13
+Premier Liga,PFK Stal Kamyanske,Right Midfield,Leandro,11,3,14
+Premier Liga,PFK Stal Kamyanske,Centre-Forward,Sylvano Comvalius,11,1,12
+Premier Liga,Zirka Kropyvnytsky,Centre-Forward,Oleksandr Akymenko,10,3,13
+Premier Liga,Kairat Almaty,Attacking Midfield,Bauyrzhan Islamkhan,11,3,14
+Premier Liga,FC Astana,Right Wing,Agim Ibraimi,9,2,11
+Premier Liga,FK Aktobe,Centre-Forward,Igor Zenkovich,10,1,11
+Premier Liga,FK Aktobe,Centre-Forward,Dmitri Golubov,23,0,23
+Premier Liga,Ordabasy Shymkent,Centre-Forward,Aleksandr Geynrikh,10,2,12
+Premier Liga,FK Atyrau,Centre-Forward,Vladimer Dvalishvili,10,3,13
+Premier League,FC Balzan Youths,Striker,Bojan Kaljevic,11,1,12
+Premier League,FC Balzan Youths,Centre-Forward,Alfred Effiong,12,1,13
+Premier League,Mosta FC,Right Wing,Njongo Priso,9,2,11
+Premier League,Hibernians FC,Attacking Midfield,Clayton Failla,34,6,40
+Premier League,Valletta FC,Centre-Forward,Michael Mifsud,18,5,23
+Premier League,Floriana FC,Centre-Forward,Mario Fontanella,10,3,13
+Premier League,Sliema Wanderers,Attacking Midfield,Denni,11,3,14
+Premier League,St. Andrews FC,Midfield,Joseph Farrugia,19,6,25
+Championship,Aston Villa,Defensive Midfield,Mile Jedinak,12,0,12
+Championship,Aston Villa,Central Midfield,Henri Lansbury,11,2,13
+Championship,Norwich City,Central Midfield,Graham Dorrans,12,5,17
+Championship,Norwich City,Attacking Midfield,Wesley Hoolahan,21,7,28
+Championship,Derby County,Right Wing,Tom Ince,7,5,12
+Championship,Derby County,Right Wing,Nick Blackman,14,1,15
+Championship,Derby County,Centre-Forward,David Nugent,12,4,16
+Championship,Derby County,Centre-Forward,Darren Bent,22,5,27
+Championship,Sheffield Wednesday,Central Midfield,Lewis McGugan,11,0,11
+Championship,Sheffield Wednesday,Attacking Midfield,Almen Abdi,12,1,13
+Championship,Sheffield Wednesday,Centre-Forward,Jordan Rhodes,15,3,18
+Championship,Sheffield Wednesday,Centre-Forward,Gary Hooper,9,3,12
+Championship,Fulham FC,Attacking Midfield,Neeskens Kebano,8,3,11
+Championship,Fulham FC,Centre-Forward,Chris Martin,15,9,24
+Championship,Nottingham Forest,Left Wing,Jamie Ward,11,3,14
+Championship,Nottingham Forest,Secondary Striker,Ross McCormack,26,9,35
+Championship,Nottingham Forest,Centre-Forward,Britt Assombalonga,11,2,13
+Championship,Nottingham Forest,Centre-Forward,Matty Fryatt,20,3,23
+Championship,Brighton & Hove Albion,Central Midfield,Richie Towell,12,0,12
+Championship,Brighton & Hove Albion,Centre-Forward,Glenn Murray,20,11,31
+Championship,Brighton & Hove Albion,Centre-Forward,Tomer Hemed,20,2,22
+Championship,Brighton & Hove Albion,Centre-Forward,Sam Baldock,10,2,12
+Championship,Brighton & Hove Albion,Centre-Forward,Chuba Akpom,9,2,11
+Championship,Reading FC,Centre-Forward,Lewis Grabban,17,4,21
+Championship,Reading FC,Centre-Forward,Yann Kermorgant,11,3,14
+Championship,Leeds United,Centre-Forward,Chris Wood,15,3,18
+Championship,Cardiff City,Central Midfield,Peter Whittingham,28,5,33
+Championship,Cardiff City,Centre-Forward,Rickie Lambert,50,3,53
+Championship,Cardiff City,Centre-Forward,Frédéric Gounongbe,13,0,13
+Championship,Birmingham City,Centre-Forward,Clayton Donaldson,16,9,25
+Championship,Brentford FC,Central Midfield,Alan Judge,7,5,12
+Championship,Ipswich Town,Secondary Striker,Freddie Sears,8,3,11
+Championship,Ipswich Town,Centre-Forward,Brett Pitman,29,4,33
+Championship,Ipswich Town,Centre-Forward,David McGoldrick,10,4,14
+Championship,Blackburn Rovers,Centre-Back,Elliott Ward,10,2,12
+Championship,Blackburn Rovers,Centre-Forward,Danny Graham,12,3,15
+Championship,Blackburn Rovers,Centre-Forward,Anthony Stokes,13,2,15
+Championship,Bristol City,Right Midfield,David Cotterill,12,2,14
+Championship,Bristol City,Secondary Striker,Lee Tomlin,15,4,19
+Championship,Bristol City,Centre-Forward,Matty Taylor,11,1,12
+Championship,Huddersfield Town,Centre-Forward,Nahki Wells,12,3,15
+Championship,Wigan Athletic,Centre-Forward,Will Grigg,16,3,19
+Championship,Preston North End,Central Midfield,Paul Gallagher,15,3,18
+League One,Bolton Wanderers,Centre-Forward,Adam Le Fondre,36,5,41
+League One,Charlton Athletic,Central Midfield,Fredrik Ulvestad,11,0,11
+League One,Charlton Athletic,Central Midfield,Johnnie Jackson,12,4,16
+League One,Bury FC,Centre-Forward,James Vaughan,6,5,11
+League One,Bury FC,Centre-Forward,Ryan Lowe,26,3,29
+League One,Sheffield United,Attacking Midfield,Jay O'Shea,11,2,13
+League One,Sheffield United,Centre-Forward,Billy Sharp,22,7,29
+League One,Sheffield United,Centre-Forward,Leon Clarke,10,1,11
+League One,Millwall FC,Defensive Midfield,Shaun Williams,19,2,21
+League One,Millwall FC,Centre-Forward,Lee Gregory,18,3,21
+League One,Millwall FC,Centre-Forward,Steve Morison,7,4,11
+League One,Milton Keynes Dons,Centre-Forward,Kieran Agard,7,4,11
+League One,Northampton Town,Left Midfield,Matthew Taylor,8,3,11
+League One,Northampton Town,Centre-Forward,Marc Richards,30,9,39
+League One,Northampton Town,Centre-Forward,Michael Smith,7,4,11
+League One,Coventry City,Centre-Forward,Yakubu Aiyegbeni,34,6,40
+League One,Southend United,Centre-Forward,Simon Cox,10,1,11
+League One,Southend United,Centre-Forward,Theo Robinson,9,3,12
+League One,Southend United,Centre-Forward,Dave Mooney,17,5,22
+League One,Scunthorpe United,Centre-Forward,Craig Davies,9,3,12
+League One,Oxford United,Right-Back,Phil Edwards,16,3,19
+League One,Oxford United,Right Wing,Chris Maguire,20,2,22
+League One,Port Vale FC,Right-Back,Ryan Taylor,12,2,14
+League One,Bradford City,Secondary Striker,Billy Clarke,7,5,12
+League One,Peterborough United,Centre-Forward,Craig Mackail-Smith,10,1,11
+League One,Rochdale AFC,Centre-Forward,Steve Davies,10,2,12
+League One,Rochdale AFC,Centre-Forward,Ian Henderson,17,5,22
+League One,Walsall FC,Centre-Forward,Simeon Jackson,11,4,15
+League One,Chesterfield FC,Centre-Forward,Sylvan Ebanks-Blake,20,4,24
+League One,Bristol Rovers,Centre-Forward,Jermaine Easter,9,3,12
+Primera División,Club Atlético River Plate,Centre-Forward,Iván Alonso,20,6,26
+Primera División,Racing Club de Avellaneda,Centre-Forward,Lisandro López,19,0,19
+Primera División,CA Independiente de Avellaneda,Centre-Forward,Germán Denis,17,4,21
+Primera División,Estudiantes de La Plata,Central Midfield,Juan Sebastián Verón,11,1,12
+Primera División,Club Atlético San Lorenzo de Almagro,Defensive Midfield,Néstor Ortigoza,31,3,34
+Primera División,Club Atlético Lanús,Centre-Forward,José Sand,22,7,29
+Primera División,Club Atlético Rosario Central,Central Midfield,Gustavo Colman,9,2,11
+Primera División,Club Atlético Rosario Central,Secondary Striker,Teófilo Gutiérrez,10,4,14
+Primera División,Club Atlético Rosario Central,Centre-Forward,Marco Ruben,13,3,16
+Primera División,Club Atlético Newell's Old Boys,Left Wing,Maxi Rodríguez,9,6,15
+Primera División,Club Atlético Newell's Old Boys,Centre-Forward,Ignacio Scocco,18,5,23
+Primera División,Belgrano de Córdoba,Centre-Forward,Claudio Bieler,19,0,19
+Primera División,Club de Gimnasia y Esgrima La Plata,Left Midfield,Brahian Alemán,9,2,11
+Primera División,Club de Gimnasia y Esgrima La Plata,Secondary Striker,Lucas Lobos,17,3,20
+Primera División,Club de Gimnasia y Esgrima La Plata,Centre-Forward,Mauro Matos,13,3,16
+Primera División,Club Atlético Huracán,Attacking Midfield,Daniel Montenegro,11,4,15
+Primera División,Club Atlético Tigre,Attacking Midfield,Diego Morales,12,4,16
+Primera División,Club Atlético Tigre,Centre-Forward,Carlos Luna,11,1,12
+Primera División,Club Atlético Talleres,Centre-Forward,Carlos Muñoz,13,2,15
+Primera División,Club Atlético Banfield,Centre-Forward,Darío Cvitanich,16,2,18
+Primera División,Club Atlético Colón (Santa Fe),Centre-Forward,Ismael Blanco,15,3,18
+Primera División,CA Unión Santa Fé,Attacking Midfield,Mauro Cejas,10,2,12
+Primera División,Club Atlético Temperley,Centre-Forward,Mauro Guevgeozián,8,3,11
+Primera División,Club Atlético Aldosivi (MdP),Right-Back,Gastón Díaz,11,4,15
+Primera División,Club Atlético Patronato,Left Wing,Gabriel Vargas,12,4,16
+Liga MX Apertura,Tigres UANL,Centre-Forward,André-Pierre Gignac,10,2,12
+Liga MX Apertura,CF Monterrey,Centre-Forward,Dorlan Pabón,14,1,15
+Liga MX Apertura,CF Pachuca,Centre-Forward,Franco Jara,11,2,13
+Liga MX Apertura,Tiburones Rojos de Veracruz,Centre-Forward,Eduardo Herrera,8,3,11
+Liga MX Apertura,CF América,Left Wing,Michael Arroyo,13,2,15
+Liga MX Apertura,CF América,Centre-Forward,Silvio Romero,12,2,14
+Liga MX Apertura,Club León FC,Centre-Forward,Mauro Boselli,23,3,26
+Liga MX Apertura,CD Cruz Azul,Attacking Midfield,Christian Giménez,25,8,33
+Liga MX Apertura,Santos Laguna,Central Midfield,Osvaldo Martínez,16,3,19
+Liga MX Apertura,Querétaro FC,Left Wing,Camilo Sanvezzo,19,1,20
+Liga MX Apertura,Querétaro FC,Left Wing,Edgar Benítez,9,3,12
+Liga MX Apertura,Monarcas Morelia,Central Midfield,Juan Pablo Rodríguez,36,5,41
+Liga MX Apertura,Monarcas Morelia,Centre-Forward,Raúl Ruidíaz,15,6,21
+Liga MX Apertura,Monarcas Morelia,Centre-Forward,Luis Gabriel Rey,17,0,17
+Liga MX Apertura,UNAM Pumas,Centre-Forward,Santiago Palacios,10,1,11
+Liga MX Apertura,Atlas Guadalajara,Centre-Forward,Matías Alustiza,20,0,20
+Liga MX Apertura,Club Necaxa,Centre-Forward,Maximiliano Barreiro,13,1,14
+Major League Soccer,Toronto FC,Secondary Striker,Sebastian Giovinco,13,4,17
+Major League Soccer,Toronto FC,Centre-Forward,Jozy Altidore,9,2,11
+Major League Soccer,Atlanta United FC,Centre-Back,Jeff Larentowicz,11,0,11
+Major League Soccer,Portland Timbers,Central Midfield,Diego Váleri,10,1,11
+Major League Soccer,Seattle Sounders FC,Secondary Striker,Clint Dempsey,14,4,18
+Major League Soccer,Philadelphia Union,Attacking Midfield,Roland Alberg,11,1,12
+Major League Soccer,New York City FC,Defensive Midfield,Andrea Pirlo,19,8,27
+Major League Soccer,New York City FC,Centre-Forward,David Villa,54,11,65
+Major League Soccer,Chicago Fire,Centre-Forward,Nemanja Nikolics,24,7,31
+Major League Soccer,Chicago Fire,Centre-Forward,Michael de Leeuw,14,3,17
+Major League Soccer,FC Dallas,Attacking Midfield,Javier Morales,12,3,15
+Major League Soccer,Orlando City SC,Attacking Midfield,Kaká,39,7,46
+Major League Soccer,Real Salt Lake City,Centre-Forward,Yura Movsisyan,12,4,16
+Major League Soccer,New England Revolution,Attacking Midfield,Lee Nguyen,14,1,15
+Major League Soccer,New England Revolution,Centre-Forward,Kei Kamara,9,2,11
+Major League Soccer,D.C. United,Centre-Forward,Sébastien Le Toux,14,1,15
+Major League Soccer,New York Red Bulls,Attacking Midfield,Sacha Kljestan,13,5,18
+Major League Soccer,New York Red Bulls,Centre-Forward,Bradley Wright-Phillips,8,4,12
+Major League Soccer,Colorado Rapids,Left Wing,Shkelzen Gashi,13,4,17
+Major League Soccer,San Jose Earthquakes,Centre-Forward,Chris Wondolowski,21,6,27
+Major League Soccer,Montreal Impact,Defensive Midfield,Patrice Bernier,11,0,11
+Major League Soccer,Montreal Impact,Centre-Forward,Matteo Mancosu,11,0,11
+Major League Soccer,Columbus Crew SC,Attacking Midfield,Federico Higuaín,19,5,24
+Major League Soccer,Columbus Crew SC,Centre-Forward,Ola Kamara,9,2,11
+Major League Soccer,Sporting Kansas City,Central Midfield,Benny Feilhaber,13,1,14
+Major League Soccer,Sporting Kansas City,Centre-Forward,Dom Dwyer,9,2,11
